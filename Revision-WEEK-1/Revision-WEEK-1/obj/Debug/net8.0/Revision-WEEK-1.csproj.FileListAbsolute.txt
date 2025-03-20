@@ -1,0 +1,14 @@
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\bin\Debug\net8.0\Revision-WEEK-1.exe
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\bin\Debug\net8.0\Revision-WEEK-1.deps.json
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\bin\Debug\net8.0\Revision-WEEK-1.runtimeconfig.json
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\bin\Debug\net8.0\Revision-WEEK-1.dll
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\bin\Debug\net8.0\Revision-WEEK-1.pdb
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.AssemblyInfoInputs.cache
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.AssemblyInfo.cs
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.csproj.CoreCompileInputs.cache
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.dll
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\refint\Revision-WEEK-1.dll
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.pdb
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\Revision-WEEK-1.genruntimeconfig.cache
+C:\Users\Athulya das\source\repos\Revision-WEEK-1\Revision-WEEK-1\obj\Debug\net8.0\ref\Revision-WEEK-1.dll
